@@ -1,3 +1,17 @@
+<style>
+        .prints {
+          display: flex;
+          width: 100%;
+          height: 300px;
+          background-color: black;
+          color: white;
+        }
+	.prints img {
+         
+          width: 50%;
+        }
+</style>
+
 <h1 align="center">
     <a href="#"> Light and Dark Form </a>
 </h1>
@@ -31,6 +45,14 @@ Neste desafio foram abordados os seguintes temas:
 - Next-themes;
 
 ---
+
+## 📸 Prints:
+
+<div direction="row" width="100%" height="max" align="center">
+	<img width="40%" src="https://github.com/joaovictor09/Todo-App-React/assets/62621446/42e57fac-4422-451e-a51e-c5f525159d52" />
+	<img width="40%" src="https://github.com/joaovictor09/Todo-App-React/assets/62621446/d38d46d6-6bb3-487a-b073-e480fcc22a01" />
+		
+</div>
 
 ## Funcionalidades
 
