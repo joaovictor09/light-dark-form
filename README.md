@@ -1,17 +1,3 @@
-<style>
-        .prints {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          background-color: black;
-          color: white;
-        }
-	.prints img {
-         
-          width: 50%;
-        }
-</style>
-
 <h1 align="center">
     <a href="#"> Light and Dark Form </a>
 </h1>
