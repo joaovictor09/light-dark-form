@@ -1,34 +1,107 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">
+    <a href="#"> Light and Dark Form </a>
+</h1>
 
-## Getting Started
+<p align="center"> Formulário com o tema Light e Dark </p>
 
-First, run the development server:
+<h4 align="center"> 
+	 Status: Concluído.
+</h4>
+
+<p align="center">
+ <a href="#-about">About</a> •
+ <a href="#-Features">Features</a> •
+ <a href="#-layout">Layout</a> • 
+ <a href="#-tech-stack">Tech Stack</a> • 
+ <a href="#-author">Author</a> • 
+ <a href="#-license">License</a>
+
+</p>
+
+## 💻 Sobre:
+
+O aplicativo é um simples formulário com a possibilidade de alterar o tema.
+Neste desafio foram abordados os seguintes temas:
+
+- React;
+- components;
+- Typescript;
+- TailwindCss;
+- NextJs;
+- Next-themes;
+
+---
+
+## Funcionalidades
+
+- [x] Botão para alterar o tema de dark para light e vice versa;
+
+---
+
+## 🚀 Como executar o projeto.
+
+Este projeto é divido em duas partes:
+1. Backend (API Json-Server) 
+2. Frontend 
+
+
+### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+
+
+#### 🎲 Rodando a aplicação (Frontend)
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
+
+# Clone este repositório
+$https://github.com/joaovictor09/light-dark-form
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd + sua pasta + git clone https://github.com/joaovictor09/light-dark-form
+ou com a CLI do Github
+$ cd + sua pasta + gh repo clone joaovictor09/light-dark-form
+
+
+# Instale as dependências com:
+$ npm install
+
+# Rode a aplicação em modo de desenvolvimento:
+$ npm run dev
+
+# O servidor inciará na porta:3000 - acesse <   http://localhost:3333/ >
 ```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠 Tecnologias
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-## Learn More
+- HTML
+- CSS (Tailwind)
+- Typescript
+- React.js
+- NextJs
+- Next-themes
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## 💻 Sobre:
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+O aplicativo é um simples formulário com a possibilidade de alterar o tema.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+---
+
+## 📝 License
+
+This project is under the license [MIT](./LICENSE).
+
+Made with ❤️ by Lidiane Diniz  [Get in Touch!](https://www.linkedin.com/in/lidiane-cristina-diniz)
+
+---
