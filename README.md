@@ -40,11 +40,6 @@ Neste desafio foram abordados os seguintes temas:
 
 ## 🚀 Como executar o projeto.
 
-Este projeto é divido em duas partes:
-1. Backend (API Json-Server) 
-2. Frontend 
-
-
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
@@ -62,7 +57,7 @@ $https://github.com/joaovictor09/light-dark-form
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd + sua pasta + git clone https://github.com/joaovictor09/light-dark-form
-ou com a CLI do Github
+# ou com a CLI do Github
 $ cd + sua pasta + gh repo clone joaovictor09/light-dark-form
 
 
