@@ -105,6 +105,6 @@ O aplicativo é um simples formulário com a possibilidade de alterar o tema.
 
 This project is under the license [MIT](./LICENSE).
 
-Made with ❤️ by Lidiane Diniz  [Get in Touch!](https://www.linkedin.com/in/lidiane-cristina-diniz)
+Made with 💜 by João Victor  [Get in Touch!](https://www.linkedin.com/in/joaovictor09)
 
 ---
